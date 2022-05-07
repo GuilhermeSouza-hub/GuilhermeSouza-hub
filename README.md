@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Walkman
 - 👀 I’m interested in into in area data security
 - 🌱 I’m currently learning python and networks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate for services ethical of pentesting
 - 📫 How to reach me Walkman#7145 on discord
 
 <!---
