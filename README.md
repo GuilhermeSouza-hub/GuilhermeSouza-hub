@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gp-ctrl
-- 👀 I’m interested in ingresar na segurança de dados
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Walkman
+- 👀 I’m interested in into in area data security
+- 🌱 I’m currently learning python and networks
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Observador#2121 | discord
+- 📫 How to reach me Walkman#7145 on discord
 
 <!---
 Gp-ctrl/Gp-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
