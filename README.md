@@ -1,6 +1,6 @@
 
 <h1><img src="img/pacman2.gif" width="25"> Hi, i'm Guilherme Souza <img src="img/ghostFear.gif" width="25"> </h1>
-<h3>I'm student of highschool and study about backend development and information security <img src="img/ghostRed.gif" width="24"></h3>
+
 <h2>I mainly code using</h2>
   <img alt="languages" src="https://skillicons.dev/icons?i=js,nodejs,php,laravel,rust,python,mysql">
 <h2>My toolkit</h2>
